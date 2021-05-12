@@ -1,12 +1,12 @@
 <div align="center">
-    <h1>Estudos C# e .NET</h1>
+    <h1>Desenvolvimento de aplicações com .NET</h1>
     <img width=150 src='https://www.aboutfarma.com.br/images/materias/2019/04/1023623288_Funcional_health_logo_451.png'>
 </div>
 
 
 ## Sobre 
 
-Estudos de C# e .NET realizados nas primeiras semanas de trabalho na Funcional Health Tech. Códigos reproduzidos do curso "Desenvolvimento de aplicações com .NET"
+Estudos de C# e .NET realizados nas primeiras semanas de trabalho na Funcional Health Tech. Códigos reproduzidos do curso "Desenvolvimento de aplicações com .NET" da Digital Innovation One.
 - [Desenvolvimento de aplicações com .NET"](https://web.digitalinnovation.one/course/desenvolvimento-de-aplicacoes-com-net/learning/360146c5-ab67-49cb-be3d-022713591f9d/?back=/browse)
 
 
@@ -22,7 +22,7 @@ Estudos de C# e .NET realizados nas primeiras semanas de trabalho na Funcional H
   
 ## Preparando o projeto para rodar em sua máquina
 
-Com os programas e plugins mencionados acima já instalados em sua máquina e com a variável de ambiente PATH já configurada, seguir com os passos indicados abaixo:
+Com os programas e pacotes mencionados acima já instalados em sua máquina e com a variável de ambiente PATH já configurada, seguir com os passos indicados abaixo:
 
 1. Faça o clone do projeto: <br>
     ```git clone https://github.com/flaviogomesbr/dio_app.com.dotnet```
