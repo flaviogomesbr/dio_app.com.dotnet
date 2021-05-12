@@ -27,10 +27,10 @@ Com os programas e pacotes mencionados acima já instalados em sua máquina e co
 1. Faça o clone do projeto: <br>
     ```git clone https://github.com/flaviogomesbr/dio_app.com.dotnet```
 
-2. Entre no diretório raiz e abra o arquivo "CursoMVC.sln" <br>
+2. Entre no diretório raiz e abra o arquivo "CursoMVC.sln"; <br>
 
-3. Com o Visual Studio aberto, aperte "Ctrl + Shift + B" para compilar o projeto <br>
+3. Com o Visual Studio aberto, aperte "Ctrl + Shift + B" para compilar o projeto; <br>
 
-4. Após a compilação, aperte "F5" para executar o projeto  <br>
+4. Após a compilação, aperte "F5" para executar o projeto;  <br>
 
-5. Acesse o seu navegador com o localhost que foi aberto e faça as alterações que desejar <br>
+5. Acesse o seu navegador com o localhost que foi aberto e faça as alterações que desejar. <br>
